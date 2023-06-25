@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@fontsource/nunito": "^5.0.3",
+    "@fontsource/inter": "^5.0.3",
     "axios": "^1.4.0",
     "vue": "^3.2.47"
   },
